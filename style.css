@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
+
+
+body {
+background-image: url(/img/webdev_background.png);
+background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+p {
+    
+    color: black;
+}
+
+.defaultTextBox {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 0;
+    height: 80vh;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 0px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    font-size: 16px;
+
